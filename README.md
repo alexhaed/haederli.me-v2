@@ -1,15 +1,12 @@
 #Inspiration
-http://www.julianschmidli.com/stories/
-
-http://mikemott.com/
-
-http://www.tommeagher.com/
-
-http://www.maureenlinke.com/
+- http://www.julianschmidli.com/stories/
+- http://mikemott.com/
+- http://www.tommeagher.com/
+- http://www.maureenlinke.com/
 
 #Tools/Themes
-http://www.themezilla.com/themes/motive/
-http://independentpublisher.me/
+- http://www.themezilla.com/themes/motive/
+- http://independentpublisher.me/
 
 #Content
 - contact 
@@ -31,7 +28,7 @@ http://independentpublisher.me/
 - oechslin
 - Reto Koenig 
 - Kim Dotcom suisse
--  Charlie Miller
+- Charlie Miller
 - Orange Suisse
 - McAfee
 - Alok Menghrajani 
