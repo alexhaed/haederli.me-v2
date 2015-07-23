@@ -1,7 +1,10 @@
 #Inspiration
 http://www.julianschmidli.com/stories/
+
 http://mikemott.com/
+
 http://www.tommeagher.com/
+
 http://www.maureenlinke.com/
 
 #Tools/Themes
