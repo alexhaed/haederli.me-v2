@@ -13,7 +13,7 @@
 - bio
 - travaux
 
-#Travaux:
+#Travaux
 - Unfallkarte
 - Hacking parlementaires
 - Vol de vélo
@@ -41,5 +41,5 @@
 - Medtronic
 - carte de crédit
 
-#Statistiques:
+#Statistiques
 http://piwik.org
