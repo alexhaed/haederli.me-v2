@@ -42,4 +42,4 @@
 - carte de crédit
 
 #Statistiques
-http://piwik.org
+- http://piwik.org
