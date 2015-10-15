@@ -1,3 +1,6 @@
+#Todo
+- add metadata
+
 #Inspiration
 - http://www.julianschmidli.com/stories/
 - http://mikemott.com/
