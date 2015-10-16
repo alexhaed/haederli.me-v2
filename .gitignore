@@ -2,6 +2,7 @@
 ################
 img/printscreen
 *.brackets.json
+*.psd
 
 ### OSX ###
 .DS_Store
