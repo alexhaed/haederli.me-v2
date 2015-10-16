@@ -1,1 +1,2 @@
-Code of my personnal webpage [https://www.haederli.me]
+Source of my personnal webpage
+https://www.haederli.me
