@@ -73,7 +73,8 @@ body {
 #slides4,
 #slides5,
 #slides6,
-#slides7 {
+#slides7,
+#slides8 {
     display: none;
     margin-bottom: 5px;
 }
@@ -153,6 +154,10 @@ body {
 #slides7 a:visited {
     color: #6B6B6B
 }
+#slides8 a:link,
+#slides8 a:visited {
+    color: #6B6B6B
+}
 #slides a:hover,
 #slides a:active {
     color: #6ea8cc
@@ -180,7 +185,11 @@ body {
 #slides7 a:hover,
 #slides7 a:active {
     color: #6ea8cc
-}    
+} 
+#slides8 a:hover,
+#slides8 a:active {
+    color: #6ea8cc
+}
 .navbar {
     overflow: hidden
 }
