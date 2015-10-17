@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/alexhaederli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.haederli.me
+  * I am alexhaederli (https://keybase.io/alexhaederli) on keybase.
+  * I have a public key with fingerprint 27C9 82B5 E5DA 37F6 C2E4  DD82 340E 2F69 4F88 17C3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "27c982b5e5da37f6c2e4dd82340e2f694f8817c3",
+            "host": "keybase.io",
+            "key_id": "340e2f694f8817c3",
+            "uid": "371bf7bfc1f61ab2d0ee19f0e5ea7600",
+            "username": "alexhaederli"
+        },
+        "revoke": {
+            "sig_ids": [
+                "ff4f117767685fb20c9d1269e5377ff05aff4e334a9e52e827d7d1dd1e94825d0f"
+            ]
+        },
+        "service": {
+            "hostname": "www.haederli.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415613296,
+    "expire_in": 157680000,
+    "prev": "0deee5d7fc7eeb1c09717227891f66c828974d9a9920d7e813cea34f7f2f2990",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFtUn9MU1cUbhWGVFCEAAvMlT0lY4Z1772+9+573ZRgcKkOw1ScM0Dw/bivvFFa
+bEsLdrDphgojQByRgEQmMhK3rjEruBHAH4M5BpIlLKAC4ggGxtxwTpS5AO6W6X+7
+/9zc73znO98591SHrlRp1NSa15S049Hd6v4ZQZV+4JNqNyZYpSLM4MZy4fIlKxYT
+tOXbFIsDM2AkEDmWFGhIS7weyIxIQkqSWFJP4ZCUGY6SWZYAoh5LxHKsdn8GkhF4
+O9QpVoShR7YiIfR/+AX/BQAhyECQRUJmCF4gJRxCgpNxSEMeMDjuJ9qhzcLnQcTm
+zbAwh4cStJkVrDgRs0GnNRf6bdsVE6pkxwwZmCxTMkEAwACGpWWBxEVOIkiGg7Qe
+AFnGaR4xoF5P8QgiIUsCCUiEJBGQo1iSlnAZy0LaqKpTEZfF/a09deByuXTPHOgQ
+kojl26wOq2g1o2COw5FvN/iNOYryl9lQyH6qky0oFgnNFmU4oc2uWC2YgUBM0aH4
+hQmKoBlCT3JMIgYL8xUbzFb8DBo1gaPjrwOdSBKXIES/AWQRQCgQIs4BApAkYDk0
+QUZkSZYDlMTxHEfiEoAsoRchr6dkIJMyyXH+gdrhQYsVizLQyCdvQppoeBbeUWCD
+WLGmbMULASq1RvVc4Ar/fqg0wWHPlkY7v3Zpc8POnNnVzapUOs0k3Lr3Cl/b+M+x
+l3+Y7Tk87DrTtnT9kRL75QTWv+n1u0dK84K2vLve+GBy75vahpRY3YaDIUZiyBfs
+C/+zz1dRPpa06de0UzG6UdP458O1TnV5Smj9bxmVQR/XRwbUdZcsDWtnfB2Pu8Lf
+uliRt7sq5EnA10vxlz1UW2/nuRhyW+T51HWjs747+6P5sIaf4jO/2Jm2L8FUs/1s
+ZfTPfPu2b/cEZB1vdxon79ft6/i7rSnmZL2ukbpcqr3xeN0EbW5bSutYWJPSkzEz
+HFFUtTDHf19ARf01z9011a4tH7mk0bSFeGrTg0stJRHewL6WzgPupFDDwKTXd2Wo
+9F56wlZ1Zfdk6/qF80cHom9NnFm81OLJqpiyJ3jc5dffgwPGrRp3ddmrG+Lasy48
+7zpxJGoxPCk82Zza3fTHzcH+irqZi7Hf/H77WGKIrmpsR9CquFOHR6qOzj1qZbx7
+qExN83hg11mPdqjwK+PIZ9+lfGh/sPtK8EZhIved3L2rH45FSu9vT8rM6Zme+ejc
+23l90sar5lVFA3fmrvZ27TC2bgbFTXJXc8vU0HT5Ndf9iF+8hdpDs0UvenqZmprR
+5PHkBezG4NzJTjdWtsvrCv3xYePt/WHG05XXDpXM19k+Xbnr5gdhT+pAi5jtfumN
+eMvi9NToBZC7xXgi0DToOx3nK/4X
+=VUKp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexhaederli
+
+==================================================================
