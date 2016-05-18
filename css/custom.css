@@ -68,6 +68,7 @@ body {
 
 /* Image Slider */
 #slides,
+#slides0,
 #slides2,
 #slides3,
 #slides4,
@@ -130,6 +131,10 @@ body {
 #slides a:visited {
     color: #6B6B6B
 }
+#slides0 a:link,
+#slides0 a:visited {
+    color: #6B6B6B
+}
 #slides2 a:link,
 #slides2 a:visited {
     color: #6B6B6B
@@ -160,6 +165,10 @@ body {
 }
 #slides a:hover,
 #slides a:active {
+    color: #6ea8cc
+}
+#slides0 a:hover,
+#slides0 a:active {
     color: #6ea8cc
 }
 #slides2 a:hover,
