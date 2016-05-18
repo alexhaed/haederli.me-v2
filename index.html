@@ -35,15 +35,37 @@
             <div class="projectmaintitle">A few projects I was involved&nbsp;in</div>
         </div>
     </div>
-    
-    <!-- CARTE DES ACCIDENTS -->
+
+    <!-- ACHATS CONFEDEREATION -->
     <div class="row lightgrey">
         <div class="medium-4 medium-offset-1 columns">
-            <div class="projecttitle">The Swiss Crashmap</div>
-            <div class="texte">An <a href="http://www.cartedesaccidents.ch/en/" target="_blank">interactive map</a> with all the <span class="chiffres">200&nbsp;000+</span>&nbsp;car crashes in Switzerland since&nbsp;2011. User can zoom until street level to see where crashes happened in his neighborhood.</div>
+            <div class="projecttitle">Swiss Administration Procurements</div>
+            <div class="texte">Each year the federal administration purchases more than five billion francs worth of goods and services from private companies. This <a href="http://enquete.lematindimanche.ch/interactif/achats/indexen.html?lang=en" target="_blank">application</a>, created with the help of Datastory, shows what type of goods and services each department spends its budget on. It also reveals the administration’s biggest suppliers.</div>
         </div>
         <div class="medium-6 columns">
             <div id="slides">
+                <img src="img/swissprocurements1.jpg" alt="Swiss Administration Procurements">
+                <img src="img/swissprocurements2.jpg" alt="Swiss Administration Procurements">
+                <img src="img/swissprocurements3.jpg" alt="Swiss Administration Procurements">
+                <img src="img/swissprocurements4.jpg" alt="Swiss Administration Procurements">
+                <a href="#" class="slidesjs-previous slidesjs-navigation" style="text-decoration:none"><i class="icon-chevron-left icon-small"></i></a>
+                <a href="#" class="slidesjs-next slidesjs-navigation" style="text-decoration:none"><i class="icon-chevron-right icon-small"></i></a>
+            </div>
+        </div>
+        <div class="medium-1 columns"></div>
+    </div>
+    <div class="row lightgrey">
+        <div class="small-12 columns">&nbsp;&nbsp;&nbsp;</div>
+    </div>  
+
+    <!-- CARTE DES ACCIDENTS -->
+    <div class="row lightgrey">
+        <div class="medium-4 medium-offset-1 columns">
+            <div class="projecttitle">Swiss Crashmap</div>
+            <div class="texte">An <a href="http://www.cartedesaccidents.ch/en/" target="_blank">interactive map</a> with all the <span class="chiffres">200&nbsp;000+</span>&nbsp;car crashes in Switzerland since&nbsp;2011. User can zoom until street level to see where crashes happened in his neighborhood.</div>
+        </div>
+        <div class="medium-6 columns">
+            <div id="slides0">
                 <img src="img/swisscrashmap2.jpg" alt="The Swiss Crashmap">
                 <img src="img/swisscrashmap1.jpg" alt="The Swiss Crashmap">
                 <img src="img/swisscrashmap3.jpg" alt="The Swiss Crashmap">
@@ -213,6 +235,11 @@
     <script>
         $(function(){
             $("#slides").slidesjs({
+                width: 728,
+                height: 463,
+                navigation: true
+            });
+            $("#slides0").slidesjs({
                 width: 728,
                 height: 463,
                 navigation: true
